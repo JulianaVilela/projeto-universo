@@ -2,7 +2,7 @@
 
 @media screen (min-width: 600px) and (max-width: 768px){
     section{
-        font-size: 2em;
+        font-size: 5em;
     }
 
     section#img01{
@@ -10,6 +10,6 @@
     }
 
     section#img02{
-        background-size: contain;
+        background-image: url(img/estrela-poeiraegases\ -\ Copia.jpg)
     }
 }

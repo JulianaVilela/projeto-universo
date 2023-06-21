@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+@media screen (min-width: 600px) and (max-width: 768px){
+    section{
+        font-size: 2em;
+    }
+
+    section#img01{
+        background-size: auto;
+    }
+
+    section#img02{
+        background-size: contain;
+    }
+}
